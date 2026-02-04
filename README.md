@@ -1,6 +1,6 @@
-# 🏠 House Price Prediction using Regression
+#  House Price Prediction using Regression
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on predicting house prices using real-world real estate data and regression techniques.  
 The goal is to analyze property features and build predictive models to estimate housing prices accurately.
 
@@ -8,7 +8,7 @@ A real dataset (California Housing Dataset) is used to ensure practical, industr
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - **Source:** California Housing Dataset (scikit-learn)
 - **Type:** Real-world housing data
 - **Target Variable:** Median House Value
@@ -22,7 +22,7 @@ A real dataset (California Housing Dataset) is used to ensure practical, industr
 
 ---
 
-## 🧠 Project Workflow
+##  Project Workflow
 1. Data Loading & Exploration  
 2. Data Cleaning & Outlier Handling (IQR Method)  
 3. Price Distribution Visualization  
@@ -35,13 +35,13 @@ A real dataset (California Housing Dataset) is used to ensure practical, industr
 
 ---
 
-## 📈 Models Used
+##  Models Used
 - **Linear Regression**
 - **Polynomial Regression (Degree = 2)**
 
 ---
 
-## 📐 Evaluation Metrics
+##  Evaluation Metrics
 - **RMSE (Root Mean Squared Error)**
 - **R² Score (Coefficient of Determination)**
 
@@ -49,7 +49,7 @@ These metrics help measure prediction accuracy and model performance.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -59,7 +59,7 @@ These metrics help measure prediction accuracy and model performance.
 
 ---
 
-## ✅ Key Learnings
+##  Key Learnings
 - Handling real-world datasets
 - Detecting and removing outliers
 - Understanding regression behavior
@@ -68,12 +68,12 @@ These metrics help measure prediction accuracy and model performance.
 
 ---
 
-## 📂 Project File
+##  Project File
 - `House_Price_Prediction_Regression.ipynb`
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Add Decision Tree & Random Forest models  
 - Hyperparameter tuning  
 - Model deployment using Streamlit  
@@ -81,6 +81,6 @@ These metrics help measure prediction accuracy and model performance.
 
 ---
 
-## 👤 Author
+##  Author
 **Hassan Ali**  
 Information Technology | Data Science Enthusiast
