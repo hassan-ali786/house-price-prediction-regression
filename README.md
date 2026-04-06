@@ -93,7 +93,7 @@ house-price-prediction-regression/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Hassan-Ali786/house-price-prediction-regression.git
+git clone https://github.com/hassan-ali786/house-price-prediction-regression.git
 cd house-price-prediction-regression
 ```
 
