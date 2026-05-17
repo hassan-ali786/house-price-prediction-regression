@@ -70,7 +70,7 @@ This project predicts housing prices based on property features:
 ```bash
 house-price-prediction-regression/
 ├── notebooks/
-│   └── House_Price_Prediction_Regression.ipynb
+│   └── house_price_prediction_regression.ipynb
 ├── requirements.txt
 ├── README.md
 ```
