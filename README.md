@@ -101,7 +101,7 @@ pip install -r requirements.txt
 3. Open the notebook:
 
 ```bash
-jupyter notebook notebooks/House_Price_Prediction_Regression.ipynb
+jupyter notebook notebooks/house_price_prediction_regression.ipynb
 ```
 
 4. Run all cells to reproduce analysis and model predictions.  
