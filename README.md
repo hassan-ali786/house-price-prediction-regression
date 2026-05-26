@@ -5,6 +5,12 @@ The project analyzes property features and builds predictive models to estimate 
 
 ---
 
+## Video Demo
+
+<video src="https://github.com/user-attachments/assets/740a90cf-22a1-4604-ace3-c624e0f1438f" width="100%" controls></video>
+
+---
+
 ## Project Overview
 
 This project predicts housing prices based on property features:
