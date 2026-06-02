@@ -135,7 +135,7 @@ jupyter notebook notebooks/house_price_prediction_regression.ipynb
 ## Author
 
 **Hassan Ali**  
-Data Scientist & Machine Learning Engineer  
+Data Scientist & ML Engineer  
 
 GitHub: https://github.com/hassan-ali786  
 
